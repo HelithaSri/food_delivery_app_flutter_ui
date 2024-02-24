@@ -1,6 +1,6 @@
 # food_delivery
 
-Firest Flutter project.
+First Flutter project.
 
 ## Screenshots
 
