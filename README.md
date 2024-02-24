@@ -3,8 +3,9 @@
 Firest Flutter project.
 
 ## Screenshots
-![frontend ui](readme/1.png)
-![frontend ui](readme/2.png)
-![frontend ui](readme/3.png)
-![frontend ui](readme/4.png)
-![frontend ui](readme/5.png)
+
+<img src="readme/1.png" alt="Frontend UI"  height="500">
+<img src="readme/2.png" alt="Frontend UI"  height="500">
+<img src="readme/3.png" alt="Frontend UI"  height="500">
+<img src="readme/4.png" alt="Frontend UI"  height="500">
+<img src="readme/5.png" alt="Frontend UI"  height="500">
